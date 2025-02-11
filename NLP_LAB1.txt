@@ -1,0 +1,18 @@
+import sys
+print(sys.version)
+import nltk
+nltk.__version__
+1+5*2-3 #terminal
+1+
+nltk.download()
+from nltk.book import *
+text1
+text2
+text1.concordance("monstrous")
+text3.concordance("KILL")
+ text1.similar("monstrous")
+text3.similar("kill")
+text3.common_contexts(["Kill", "put"])
+text3.generate()
+text4.dispersion_plot(["citizens", "democracy", "freedom", "duties", "America"])
+len(text3)
